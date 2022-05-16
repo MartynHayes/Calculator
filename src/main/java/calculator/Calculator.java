@@ -31,10 +31,10 @@ public class Calculator {
 		double y = (uInput.input1());
 		double sum = (x / y);
 		if (x > y) {
-			System.out.println("The answer is: " + sum);
+			System.out.println("The answer is: " + sum.);
 			return (sum);
 		} else {
-			System.out.println("Division cannot be performed");
+			System.out.println("Division cannot be performed.");
 			return (sum);
 		}
 	}

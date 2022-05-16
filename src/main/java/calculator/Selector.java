@@ -12,7 +12,7 @@ public class Selector {
 		} else if (op.equals("divide")) {
 			Calculator.divide();
 		} else {
-			System.out.println("Invalid operator");
+			System.out.println("Invalid operator.");
 		}
 
 	}
